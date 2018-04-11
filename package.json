@@ -1,17 +1,17 @@
 {
   "author": {
-    "name": "Robert Arnesson"
+    "name": "Robert Arnesson (originaly)"
   },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/arnesson/cordova-plugin-firebase"
+    "url": "https://github.com/mlourenco/cordova-plugin-firebase"
   },
-  "name": "cordova-plugin-firebase",
+  "name": "mobiag-cordova-plugin-firebase",
   "version": "0.1.25",
   "description": "Cordova plugin for Google Firebase",
   "cordova": {
-    "id": "cordova-plugin-firebase",
+    "id": "mobiag-cordova-plugin-firebase",
     "platforms": [
       "android",
       "ios",
