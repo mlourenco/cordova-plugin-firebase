@@ -21,10 +21,10 @@ xmlns:android="http://schemas.android.com/apk/res/android">
 			</feature>
 		</config-file>
 		<config-file parent="/resources" target="res/values/strings.xml">
-			<string name="google_app_id">@string/google_app_id</string>
+			<string name="google_app_id">1:185488223188:android:a3944ed94bea34d4</string>
 		</config-file>
 		<config-file parent="/resources" target="res/values/strings.xml">
-			<string name="google_api_key">@string/google_api_key</string>
+			<string name="google_api_key">AIzaSyC54c1lN41wFL3jmgXk9KF1JtY0cQXEW5k</string>
 		</config-file>
 		<config-file target="AndroidManifest.xml" parent="/*">
 				<uses-permission android:name="android.permission.INTERNET" />
@@ -55,8 +55,8 @@ xmlns:android="http://schemas.android.com/apk/res/android">
 		<source-file src="src/android/colors.xml" target-dir="res/values" />
 
 		<framework src="src/android/build.gradle" custom="true" type="gradleReference" />
-		<framework src="com.google.gms:google-services:+" />
-		<framework src="com.google.android.gms:play-services-tagmanager:+" />
+		<framework src="com.google.gms:google-services:3.1.0" />
+		<framework src="com.google.android.gms:play-services-tagmanager:11.8.0" />
 		<framework src="com.google.firebase:firebase-core:11.8.0" />
 		<framework src="com.google.firebase:firebase-messaging:11.8.0" />
 		<framework src="com.google.firebase:firebase-crash:11.8.0" />
