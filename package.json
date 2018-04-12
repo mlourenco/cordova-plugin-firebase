@@ -8,7 +8,7 @@
     "url": "https://github.com/mlourenco/cordova-plugin-firebase"
   },
   "name": "mobiag-cordova-plugin-firebase",
-  "version": "0.1.25",
+  "version": "0.1.26",
   "description": "Cordova plugin for Google Firebase",
   "cordova": {
     "id": "mobiag-cordova-plugin-firebase",
