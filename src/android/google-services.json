@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "716666702298",
+    "firebase_url": "https://mobiag-firebase.firebaseio.com",
+    "project_id": "mobiag-firebase",
+    "storage_bucket": "mobiag-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716666702298:android:a3944ed94bea34d4",
+        "android_client_info": {
+          "package_name": "com.mobiag.mobiag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716666702298-03pgtfrcddcfect7040cma4bi2kn9ff6.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "716666702298-03pgtfrcddcfect7040cma4bi2kn9ff6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrKPekc9blGnZvy-EdiSSvGHPmF97jmkA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
